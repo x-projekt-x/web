@@ -21,9 +21,9 @@
 	</div>
 	<hr>
 	<div id="sidebar">
-		<li>bla1</li>
-		<li>bla2</li>
-		<li>bla3</li>
+		<a href="#"><li>Kategorie1</li></a>
+		<a href="#"><li>Kategorie2</li></a>
+		<a href="#"><li>Kategorie3</li></a>
 	</div>
 	<div id="body">
 		
