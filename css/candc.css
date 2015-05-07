@@ -29,7 +29,7 @@ html{
 	padding: 1em;
 	padding-right: 2em;
 	margin-left: 2em;
-	height: 50%;
+	height: 65%;
 	width: 10%;
 	
 	border-top-right-radius: 20px;
@@ -41,13 +41,15 @@ html{
 	-webkit-border-top-right-radius: 20px;
 	-webkit-border-bottom-right-radius: 20px;
 	-webkit-border-bottom-left-radius: 20px;
-	
+	opacity: 0.9;
 }
 
 #sidebar li{
 	list-style-type: none;
 	margin-left: 1em;
 	font-size: 20px;
+	font-family: rockwell;
+	
 }
 
 #header2{
