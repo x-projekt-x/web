@@ -57,42 +57,42 @@
 				default:
 				//---navlist--------------------------------------//
 				Case '1':
-					include '#';
+					include 'navlist/home.php';
 					break;
 				Case '2':
-					include '#';
+					include 'navlist/teamspeakServer.php';
 					break;
 				Case '3':
-					include '#';
+					include 'navlist/webhosting.php';
 					break;
 				Case '4':
-					include '#';
+					include 'navlist/webdesign.php';
 					break;
 				Case '5':
-					include '#';
+					include 'navlist/impressum.php';
 					break;
 				Case '6':
-					include '#';
+					include 'navlist/login.php';
 					break;
 				//---SidebarL-----------------------------------------//
 				Case '7':
-					include '#';
+					include 'sidebarL/kat1.php';
 					break;
 				Case '8':
-					include '#';
+					include 'sidebarL/kat2.php';
 					break;
 				Case '9':
-					include '#';
+					include 'sidebarL/kat3.php';
 					break;
 				//---SidebarR-----------------------------------------//	
 				Case '10':
-					include '#';
+					include 'sidebarR/service1.php';
 					break;
 				Case '11':
-					include '#';
+					include 'sidebarR/service2.php';
 					break;
 				Case '12':
-					include '#';
+					include 'sidebarR/service3.php';
 					break;
 
 			}
