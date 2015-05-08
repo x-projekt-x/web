@@ -95,11 +95,11 @@ html{
 }
 
 #navlist{
-	background: linear-gradient(top, rgba(212,23,23,1) 0%, rgba(97,97,97,1) 100%, rgba(255,255,255,1) 100%);
-	background: -moz-linear-gradient(top, rgba(212,23,23,1) 0%, rgba(97,97,97,1) 100%, rgba(255,255,255,1) 100%);
-	background: -webkit-linear-gradient(top, rgba(212,23,23,1) 0%, rgba(97,97,97,1) 100%, rgba(255,255,255,1) 100%);
-	background: -ms-linear-gradient(top, rgba(212,23,23,1) 0%, rgba(97,97,97,1) 100%, rgba(255,255,255,1) 100%);
-	background: -o-linear-gradient(top, rgba(212,23,23,1) 0%, rgba(97,97,97,1) 100%, rgba(255,255,255,1) 100%);
+	background: linear-gradient(top, rgba(212,23,23, 0.7) 0%, rgba(97,97,97, 0.7) 100%, rgba(255,255,255, 0.7) 100%);
+	background: -moz-linear-gradient(top, rgba(212,23,23, 0.7) 0%, rgba(97,97,97,1, 0.7) 100%, rgba(255,255,255, 0.7) 100%);
+	background: -webkit-linear-gradient(top, rgba(212,23,23, 0.7) 0%, rgba(97,97,97, 0.7) 100%, rgba(255,255,255, 0.7) 100%);
+	background: -ms-linear-gradient(top, rgba(212,23,23, 0.7) 0%, rgba(97,97,97, 0.7) 100%, rgba(255,255,255, 0.7) 100%);
+	background: -o-linear-gradient(top, rgba(212,23,23, 0.7) 0%, rgba(97,97,97, 0.7) 100%, rgba(255,255,255, 0.7) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#000000, endColorstr=#ffffff,GradientType=1);
 	
 	border-radius: 555px;
