@@ -10,7 +10,7 @@
 		<meta name="revisit-after" content="2 days"/>
 		<meta name="expires" content="0"/>
 		<meta name="robots" content="all" />
-		<link rel="stylesheet" href="css/main.css" type="text/css" /> 
+		<link rel="stylesheet" href="css/candc.css" type="text/css" /> 
 		<lang="de" />
 	</head>
 	
